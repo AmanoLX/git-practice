@@ -1,4 +1,4 @@
 Name: Michel
 Age: 37
 Favorite Color: Red
-Favorite Drink: Whiskey
+Favorite Drink: Beer
